@@ -1,0 +1,6 @@
+{
+  "name": "Severe",
+  "description": "On-chain income proof issuance and verification available on Arc.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
